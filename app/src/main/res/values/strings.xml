@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="monthly_payment">Ежемесячный платеж: %.2f</string>
+    <string name="totalPayroll">Общая сумма выплаты составит: %.2f</string>
+</resources>
